@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 
 
 <h1>Status</h1>
+https://github-readme-stats.vercel.app/api?username=prop07&show_icons=true
