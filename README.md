@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Just Coding<h1>
+<img class="jss42" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prop07&amp;layout=compact" alt="Manoj Rijal's Most Used Languages">
