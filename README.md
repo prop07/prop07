@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 <h3>My Github stats:</h3>
-<img class="jss42" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=prop07&amp;show_icons=true" alt="Manoj Rijal's GitHub Stats">
+<img class="jss42" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=prop07&amp;show_icons=true" alt="GitHub Stats">
 
 <h3>My Most Used Languages:</h3>
-<img class="jss42" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prop07&amp;layout=compact" alt="Manoj Rijal's Most Used Languages">
+<img class="jss42" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prop07&amp;layout=compact" alt="Most Used Languages">
